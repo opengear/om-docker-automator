@@ -10,8 +10,9 @@ Netmiko Docker Container for Operations Manager
   - run.sh
   - test.py
   - show_version.py
-3. Run the build.sh to build the container
-4. Run the run.sh to start the container
+3. chmod +x build.sh and run.sh
+4. Run the build.sh to build the container
+5. Run the run.sh to start the container
 ```
 
 # Usage
