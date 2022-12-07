@@ -22,14 +22,14 @@ The below scripts assist in creating and starting the container
 ```
 # Examples
 ```
-To execute the test.py script, run the below docker exec command...
+To execute the test.py script, run the below docker exec command on the running container...
 - docker exec netmiko python3 test.py
 ```
   ```
   To run your own custom script, copy your script to the running container...
   - docker cp /local/path/to/myscript.py netmiko:/scripts/myscript.py
 
-  To execute your custom script, run the below docker exec command...
+  To execute your custom script, run the below docker exec command on the running container...
   - docker exec netmiko python3 myscript.py
   ```
 ```
