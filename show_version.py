@@ -14,7 +14,7 @@ def connect():
     device1 = {
         'host': '10.0.0.1'
         'username': 'oguser',
-        'password': 'myPassword
+        'password': 'myPassword',
         'device_type': 'cisco_ios',
         'session_log': 'netmiko_log.txt'
     }   
