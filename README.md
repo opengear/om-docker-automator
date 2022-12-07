@@ -33,7 +33,8 @@ To execute the test.py script, run the below docker exec command on the running 
   - docker exec netmiko python3 myscript.py
   ```
 ```
-To execute the show_version.py script, edit the 'device1' parameters in the script. Copy the script to the running container using the docker cp command or edit prior to building the container.
+To execute the show_version.py script, edit the 'device1' parameters in the script. 
+Copy the script to the running container using the docker cp command or edit prior to building the container.
     
     device1 = {
         'host': '10.0.0.5
