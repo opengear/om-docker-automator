@@ -12,9 +12,9 @@ def connect():
 
     # Cisco device credentials
     device1 = {
-        'host': '10.25.5.87',
+        'host': '10.0.0.1'
         'username': 'oguser',
-        'password': 'Op3ng3ar!',
+        'password': 'myPassword
         'device_type': 'cisco_ios',
         'session_log': 'netmiko_log.txt'
     }   
