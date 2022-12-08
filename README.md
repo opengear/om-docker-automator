@@ -1,5 +1,5 @@
 # om-docker-netmiko
-Netmiko Docker Container for Operations Manager
+Netmiko Docker Container for Opengear Operations Manager
 
 # Instructions
 ```
