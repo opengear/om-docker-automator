@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker run -dit --name automator opengear:netmiko
+docker run -dit --name netmiko opengear:netmiko
