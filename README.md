@@ -1,4 +1,4 @@
-# om-docker-automator
+# om-docker-netmiko
 Netmiko Docker Container for Operations Manager
 
 # Instructions
