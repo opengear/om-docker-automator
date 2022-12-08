@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker run -dit --name netmiko opengear:netmiko
+docker build -t opengear:netmiko .
