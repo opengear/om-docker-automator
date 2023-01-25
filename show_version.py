@@ -12,7 +12,7 @@ def connect():
 
     # Cisco device credentials
     device1 = {
-        'host': '10.0.0.1'
+        'host': '10.0.0.1',
         'username': 'oguser',
         'password': 'myPassword',
         'device_type': 'cisco_ios',
