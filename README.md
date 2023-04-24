@@ -1,7 +1,7 @@
 # om-docker-netmiko
 Netmiko Docker Container for Opengear Operations Manager
 
-Run Netmiko based Python scripts to send Cisco IOS commands from an Operations Manager to a Cisco IOS device remotely via SSH.
+Run Netmiko based Python scripts to send Cisco IOS commands from an Operations Manager to a Cisco IOS device remotely via SSH. Additionally, the cisco_cmd_pmshell.py provides the ability to run commands over serial.
 
 # Instructions
 ```
